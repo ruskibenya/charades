@@ -1,3 +1,5 @@
+Here's the updated list with each question formatted in the "What is charade number __?" style:
+
 # charades
 
 ## Basic JavaScript Concepts Charade Prompts
@@ -6,112 +8,111 @@ Q1: What is charade number 1?\
 A1: Writing a “for loop”\
 Q2: What is charade number 2?\
 A2: Declaring a “variable”\
-Q3: What’s a charade prompt that involves debugging in JavaScript?\
+Q3: What is charade number 3?\
 A3: Debugging code\
-Q4: Give me a charade prompt related to JavaScript console commands.\
+Q4: What is charade number 4?\
 A4: Using “console.log”\
-Q5: What’s a charade prompt about conditional statements in JavaScript?\
+Q5: What is charade number 5?\
 A5: Writing an “if statement”\
-Q6: Can you suggest a charade prompt for JavaScript functions?\
+Q6: What is charade number 6?\
 A6: Creating a “function”\
-Q7: What’s a good charade prompt involving JavaScript promises?\
+Q7: What is charade number 7?\
 A7: Chaining “promises”\
-Q8: Give me a charade prompt about handling errors in JavaScript.\
+Q8: What is charade number 8?\
 A8: “Catching an error”\
-Q9: What’s a JavaScript charade prompt related to DOM manipulation?\
+Q9: What is charade number 9?\
 A9: Typing “document.getElementById”\
-Q10: Can you provide a charade prompt for JavaScript arrow functions?\
-A10: Writing “arrow functions”\
+Q10: What is charade number 10?\
+A10: Writing “arrow functions”
 
 ## JS Objects and Data Structures Charade Prompts
 
-Q11: What is a charade prompt related to creating data structures in JavaScript?\
+Q11: What is charade number 11?\
 A11: Building an “array”\
-Q12: Can you suggest a charade prompt about accessing JavaScript objects?\
+Q12: What is charade number 12?\
 A12: Accessing an “object property”\
-Q13: What’s a good charade prompt for working with objects in JavaScript?\
+Q13: What is charade number 13?\
 A13: Iterating over an “object”\
-Q14: Give me a charade prompt related to modifying arrays in JavaScript.\
+Q14: What is charade number 14?\
 A14: Pushing data into an “array”\
-Q15: What’s a charade prompt about JSON in JavaScript?\
+Q15: What is charade number 15?\
 A15: Using the “JSON.stringify” method\
-Q16: Can you suggest a charade prompt related to JavaScript classes?\
+Q16: What is charade number 16?\
 A16: Creating a “class”\
-Q17: What is a charade prompt for setting up JavaScript objects?\
+Q17: What is charade number 17?\
 A17: Initializing an “object”\
-Q18: What’s a fun charade prompt for JavaScript timing functions?\
+Q18: What is charade number 18?\
 A18: Using a “setTimeout”\
-Q19: Can you give me a charade prompt about JavaScript control flow?\
+Q19: What is charade number 19?\
 A19: Writing a “switch statement”\
-Q20: What’s a charade prompt related to array manipulation in JavaScript?\
-A20: Sorting an “array”\
+Q20: What is charade number 20?\
+A20: Sorting an “array”
 
 ## JS Actions and Functions Charade Prompts
 
-Q21: What is a charade prompt related to JavaScript APIs?\
+Q21: What is charade number 21?\
 A21: Calling an “API”\
-Q22: Can you suggest a charade prompt for executing code in JavaScript?\
+Q22: What is charade number 22?\
 A22: Running a “script”\
-Q23: What’s a charade prompt involving JavaScript code optimization?\
+Q23: What is charade number 23?\
 A23: Minifying JavaScript code\
-Q24: Give me a charade prompt about pattern matching in JavaScript.\
+Q24: What is charade number 24?\
 A24: Using “regular expressions”\
-Q25: What’s a good charade prompt related to JavaScript modules?\
+Q25: What is charade number 25?\
 A25: Creating a “module”\
-Q26: Can you suggest a charade prompt about handling events in JavaScript?\
+Q26: What is charade number 26?\
 A26: Adding an “event listener”\
-Q27: What is a charade prompt for asynchronous programming in JavaScript?\
+Q27: What is charade number 27?\
 A27: Typing “async/await”\
-Q28: What’s a charade prompt about making HTTP requests in JavaScript?\
+Q28: What is charade number 28?\
 A28: Making a “GET request”\
-Q29: Can you give me a charade prompt related to web storage in JavaScript?\
+Q29: What is charade number 29?\
 A29: Using “localStorage”\
-Q30: What’s a charade prompt about writing logic in JavaScript?\
-A30: Writing an “algorithm”\
+Q30: What is charade number 30?\
+A30: Writing an “algorithm”
 
 ## JS Libraries and Frameworks Charade Prompts
 
-Q31: What is a charade prompt related to managing JavaScript libraries?\
+Q31: What is charade number 31?\
 A31: Installing a “JavaScript library”\
-Q32: Can you suggest a charade prompt about building interfaces in React?\
+Q32: What is charade number 32?\
 A32: Writing “React components”\
-Q33: What’s a good charade prompt for using JavaScript modules?\
+Q33: What is charade number 33?\
 A33: Importing a “module”\
-Q34: Give me a charade prompt involving JavaScript package management.\
+Q34: What is charade number 34?\
 A34: Typing “npm install”\
-Q35: What is a charade prompt related to Vue.js?\
+Q35: What is charade number 35?\
 A35: Creating a “Vue.js instance”\
-Q36: Can you provide a charade prompt about handling HTTP requests in JavaScript?\
+Q36: What is charade number 36?\
 A36: Fetching data with “Axios”\
-Q37: What’s a charade prompt about server-side JavaScript?\
+Q37: What is charade number 37?\
 A37: Building a “Node.js server”\
-Q38: Suggest a charade prompt related to state management in JavaScript.\
+Q38: What is charade number 38?\
 A38: Writing a “Redux action”\
-Q39: What is a charade prompt for using JavaScript libraries to manipulate the DOM?\
+Q39: What is charade number 39?\
 A39: Using “jQuery”\
-Q40: Can you give me a charade prompt about configuring JavaScript build tools?\
-A40: Configuring “Webpack”\
-
+Q40: What is charade number 40?\
+A40: Configuring “Webpack”
 
 ## Fun/Pop Culture Tech References Charade Prompts
 
-Q41: What is a fun charade prompt related to tech superheroes?\
+Q41: What is charade number 41?\
 A41: Coding like “Iron Man”\
-Q42: Can you suggest a charade prompt that involves typing code in a cinematic way?\
+Q42: What is charade number 42?\
 A42: Typing code “Matrix-style”\
-Q43: What’s a creative charade prompt about coding in an artistic way?\
+Q43: What is charade number 43?\
 A43: Writing “JavaScript poetry”\
-Q44: Give me a charade prompt related to building tech projects with JavaScript.\
+Q44: What is charade number 44?\
 A44: Building a “JavaScript robot”\
-Q45: Can you suggest a whimsical charade prompt about teaching programming?\
+Q45: What is charade number 45?\
 A45: Teaching JavaScript to “a group of cats”\
-Q46: What’s a tech-themed charade prompt involving stealthy coding?\
+Q46: What is charade number 46?\
 A46: “JavaScript ninja” coding in the dark\
-Q47: What’s a fun charade prompt involving musical coding?\
+Q47: What is charade number 47?\
 A47: Singing the “JavaScript anthem”\
-Q48: Can you provide a charade prompt about tech gatherings?\
+Q48: What is charade number 48?\
 A48: Hosting a “JavaScript hackathon”\
-Q49: What’s a charade prompt that involves learning programming skills?\
+Q49: What is charade number 49?\
 A49: Watching a “JavaScript tutorial”\
-Q50: Give me a quirky charade prompt about coding in unusual situations.\
-A50: Typing “JavaScript while sleepwalking”\
+Q50: What is charade number 50?\
+A50: Typing “JavaScript while sleepwalking”
