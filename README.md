@@ -2,9 +2,9 @@
 
 ## Basic JavaScript Concepts Charade Prompts
 
-Q1: What is a charade prompt related to JavaScript loops?\
+Q1: What is charade number 1?\
 A1: Writing a “for loop”\
-Q2: Can you suggest a charade prompt about JavaScript variables?\
+Q2: What is charade number 2?\
 A2: Declaring a “variable”\
 Q3: What’s a charade prompt that involves debugging in JavaScript?\
 A3: Debugging code\
