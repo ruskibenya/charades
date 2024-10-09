@@ -25,7 +25,7 @@ A9: Typing “document.getElementById”\
 Q10: What is charade number 10?\
 A10: Writing “arrow functions”
 
-## JS Objects and Data Structures Charade Prompts
+## JS Advanced Charade Prompts
 
 Q11: What is charade number 11?\
 A11: Building an “array”\
@@ -48,8 +48,6 @@ A19: Writing a “switch statement”\
 Q20: What is charade number 20?\
 A20: Sorting an “array”
 
-## JS Actions and Functions Charade Prompts
-
 Q21: What is charade number 21?\
 A21: Calling an “API”\
 Q22: What is charade number 22?\
@@ -70,8 +68,6 @@ Q29: What is charade number 29?\
 A29: Using “localStorage”\
 Q30: What is charade number 30?\
 A30: Writing an “algorithm”
-
-## JS Libraries and Frameworks Charade Prompts
 
 Q31: What is charade number 31?\
 A31: Installing a “JavaScript library”\
@@ -94,7 +90,7 @@ A39: Using “jQuery”\
 Q40: What is charade number 40?\
 A40: Configuring “Webpack”
 
-## Fun/Pop Culture Tech References Charade Prompts
+## Developer Life Charade Prompts
 
 Q41: What is charade number 41?\
 A41: Coding like “Iron Man”\
