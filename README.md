@@ -2,192 +2,192 @@
 
 ## Basic JavaScript Concepts Charade Prompts
 
-What is charade number 1?  
-Answer: Writing a “for loop”
+Q1: What is charade number 1?  
+A1: Writing a “for loop”
 
-What is charade number 2?  
-Answer: Declaring a “variable”
+Q2: What is charade number 2?  
+A2: Declaring a “variable”
 
-What is charade number 3?  
-Answer: Debugging code
+Q3: What is charade number 3?  
+A3: Debugging code
 
-What is charade number 4?  
-Answer: Using “console.log”
+Q4: What is charade number 4?  
+A4: Using “console.log”
 
-What is charade number 5?  
-Answer: Writing an “if statement”
+Q5: What is charade number 5?  
+A5: Writing an “if statement”
 
-What is charade number 6?  
-Answer: Creating a “function”
+Q6: What is charade number 6?  
+A6: Creating a “function”
 
-What is charade number 7?  
-Answer: Chaining “promises”
+Q7: What is charade number 7?  
+A7: Chaining “promises”
 
-What is charade number 8?  
-Answer: Catching an error
+Q8: What is charade number 8?  
+A8: Catching an error
 
-What is charade number 9?  
-Answer: Getting an Element by ID
+Q9: What is charade number 9?  
+A9: Getting an Element by ID
 
-What is charade number 10?  
-Answer: Writing arrow functions
+Q10: What is charade number 10?  
+A10: Writing arrow functions
 
-What is charade number 11?  
-Answer: Subscribing to an event listener
+Q11: What is charade number 11?  
+A11: Subscribing to an event listener
 
-What is charade number 12?  
-Answer: Calling an API endpoint
+Q12: What is charade number 12?  
+A12: Calling an API endpoint
 
-What is charade number 13?  
-Answer: Trimming whitespace from a string
+Q13: What is charade number 13?  
+A13: Trimming whitespace from a string
 
-What is charade number 14?  
-Answer: Playing with the DOM elements
+Q14: What is charade number 14?  
+A14: Playing with the DOM elements
 
-What is charade number 15?  
-Answer: Cleaning up your codebase
+Q15: What is charade number 15?  
+A15: Cleaning up your codebase
 
-What is charade number 16?  
-Answer: Looping through an array
+Q16: What is charade number 16?  
+A16: Looping through an array
 
-What is charade number 17?  
-Answer: Executing a forEach loop
+Q17: What is charade number 17?  
+A17: Executing a forEach loop
 
 ## JS Advanced Charade Prompts
 
-What is charade number 18?  
-Answer: Consuming an API response
+Q18: What is charade number 18?  
+A18: Consuming an API response
 
-What is charade number 19?  
-Answer: Building an array
+Q19: What is charade number 19?  
+A19: Building an array
 
-What is charade number 20?  
-Answer: Accessing an object property
+Q20: What is charade number 20?  
+A20: Accessing an object property
 
-What is charade number 21?  
-Answer: Iterating over an object
+Q21: What is charade number 21?  
+A21: Iterating over an object
 
-What is charade number 22?  
-Answer: Pushing data into an array
+Q22: What is charade number 22?  
+A22: Pushing data into an array
 
-What is charade number 23?  
-Answer: Using the JSON.stringify method
+Q23: What is charade number 23?  
+A23: Using the JSON.stringify method
 
-What is charade number 24?  
-Answer: Creating a class
+Q24: What is charade number 24?  
+A24: Creating a class
 
-What is charade number 25?  
-Answer: Initializing an object
+Q25: What is charade number 25?  
+A25: Initializing an object
 
-What is charade number 26?  
-Answer: Using a setTimeout
+Q26: What is charade number 26?  
+A26: Using a setTimeout
 
-What is charade number 27?  
-Answer: Writing a switch statement
+Q27: What is charade number 27?  
+A27: Writing a switch statement
 
-What is charade number 28?  
-Answer: Sorting an array
+Q28: What is charade number 28?  
+A28: Sorting an array
 
-What is charade number 29?  
-Answer: Calling an API
+Q29: What is charade number 29?  
+A29: Calling an API
 
-What is charade number 30?  
-Answer: Running a script
+Q30: What is charade number 30?  
+A30: Running a script
 
-What is charade number 31?  
-Answer: Minifying JavaScript code
+Q31: What is charade number 31?  
+A31: Minifying JavaScript code
 
-What is charade number 32?  
-Answer: Using regular expressions
+Q32: What is charade number 32?  
+A32: Using regular expressions
 
-What is charade number 33?  
-Answer: Creating a module
+Q33: What is charade number 33?  
+A33: Creating a module
 
-What is charade number 34?  
-Answer: Adding an event listener
+Q34: What is charade number 34?  
+A34: Adding an event listener
 
-What is charade number 35?  
-Answer: Typing async/await
+Q35: What is charade number 35?  
+A35: Typing async/await
 
-What is charade number 36?  
-Answer: Making a GET request
+Q36: What is charade number 36?  
+A36: Making a GET request
 
-What is charade number 37?  
-Answer: Using localStorage
+Q37: What is charade number 37?  
+A37: Using localStorage
 
-What is charade number 38?  
-Answer: Writing an algorithm
+Q38: What is charade number 38?  
+A38: Writing an algorithm
 
-What is charade number 39?  
-Answer: Installing a JavaScript library
+Q39: What is charade number 39?  
+A39: Installing a JavaScript library
 
-What is charade number 40?  
-Answer: Writing React components
+Q40: What is charade number 40?  
+A40: Writing React components
 
-What is charade number 41?  
-Answer: Importing a module
+Q41: What is charade number 41?  
+A41: Importing a module
 
-What is charade number 42?  
-Answer: Typing npm install
+Q42: What is charade number 42?  
+A42: Typing npm install
 
-What is charade number 43?  
-Answer: Creating a Vue.js instance
+Q43: What is charade number 43?  
+A43: Creating a Vue.js instance
 
-What is charade number 44?  
-Answer: Fetching data with Axios
+Q44: What is charade number 44?  
+A44: Fetching data with Axios
 
-What is charade number 45?  
-Answer: Building a Node.js server
+Q45: What is charade number 45?  
+A45: Building a Node.js server
 
-What is charade number 46?  
-Answer: Writing a Redux action
+Q46: What is charade number 46?  
+A46: Writing a Redux action
 
-What is charade number 47?  
-Answer: Using jQuery
+Q47: What is charade number 47?  
+A47: Using jQuery
 
-What is charade number 48?  
-Answer: Configuring Webpack
+Q48: What is charade number 48?  
+A48: Configuring Webpack
 
 ## Developer Life Charade Prompts
 
-What is charade number 49?  
-Answer: The coffee snob developer
+Q49: What is charade number 49?  
+A49: The coffee snob developer
 
-What is charade number 50?  
-Answer: Stack Overflow saving your life
+Q50: What is charade number 50?  
+A50: Stack Overflow saving your life
 
-What is charade number 51?  
-Answer: Writing JavaScript poetry
+Q51: What is charade number 51?  
+A51: Writing JavaScript poetry
 
-What is charade number 52?  
-Answer: Coffee number 100 of the day
+Q52: What is charade number 52?  
+A52: Coffee number 100 of the day
 
-What is charade number 53?  
-Answer: Teaching JavaScript to a group of cats
+Q53: What is charade number 53?  
+A53: Teaching JavaScript to a group of cats
 
-What is charade number 54?  
-Answer: Developer ninja
+Q54: What is charade number 54?  
+A54: Developer ninja
 
-What is charade number 55?  
-Answer: Burnout
+Q55: What is charade number 55?  
+A55: Burnout
 
-What is charade number 56?  
-Answer: Participating in a hackathon
+Q56: What is charade number 56?  
+A56: Participating in a hackathon
 
-What is charade number 57?  
-Answer: Launching a startup
+Q57: What is charade number 57?  
+A57: Launching a startup
 
-What is charade number 58?  
-Answer: Being your family IT
+Q58: What is charade number 58?  
+A58: Being your family IT
 
-What is charade number 59?  
-Answer: What your mom thinks programming is
+Q59: What is charade number 59?  
+A59: What your mom thinks programming is
 
-What is charade number 60?  
-Answer: The 10x programmer
+Q60: What is charade number 60?  
+A60: The 10x programmer
 
-What is charade number 61?  
-Answer: Deploying on Friday
+Q61: What is charade number 61?  
+A61: Deploying on Friday
 
-What is charade number 62?  
-Answer: Low Code Development
+Q62: What is charade number 62?  
+A62: Low Code Development
